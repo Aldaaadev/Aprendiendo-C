@@ -18,7 +18,7 @@ Este es un repositorio donde muestro lo que he aprendido de C++ tanto de la univ
  - Recursividad
 
 
-## Authors
+## Autor
 
 - [Aldair Tercero Luna](www.linkedin.com/in/aldair-tercero-luna)
 
